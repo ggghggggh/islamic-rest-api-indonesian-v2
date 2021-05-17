@@ -1,6 +1,6 @@
 <div align="center">
  
-# Islamic Api V2 - Zhirrr
+# Islamic Api V2 - Zhirrrr
 <p align="center">
 <img src="https://i.ibb.co/TmWvKVm/masjid.webp">
 </p>
